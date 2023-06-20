@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nahamcon CTF 2023 mobile challenges Writeup, part 2: JNInjaspeak"
-date:   2023-06-19
+date:   2023-06-20
 categories: writeup
 ---
 This post is the second of a series of four where I'll be describing how I solved 4 out of the 5 mobile challenges of the [Nahamcon CTF 2023][nahamcon-ctf-website].  

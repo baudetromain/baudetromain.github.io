@@ -15,9 +15,9 @@ This is the tools i've been using for those challenges:
 - [jadx][jadx-github]: Jadx is a Java decompiler especially made to decompile Android applications. We'll need it to understand how the applications work internally.
 - [apktool][apktool-website]: Apktool is a tool to decompress or build APK files from Smali bytecode (Smali is the name of the bytecode that Android's JVM is running). 
 - [adb][adb-website], which stands for Android Debug Bridge, is the tool that allow us to interract with the Android device we're using.  
-- [ghidra][ghidra-website]: Ghidra is a free Software Reverse Engineering suite that is able to analyze compiled binaries, and translate them into an equivalent C code.  
+- [ghidra][ghidra-website]: Ghidra is a free Software Reverse Engineering suite that is able to analyze compiled binaries, and translate them into an equivalent C code.
 
-# Challenge
+# Challenge
 
 We are given a few instructions and an APK file.
 
