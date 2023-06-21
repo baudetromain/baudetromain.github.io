@@ -1,10 +1,10 @@
 ---
-layout: page
-title: About
+layout: post
+title: My resume
 permalink: /about/
 ---
 
-My name is Romain Baudet, 21 years old, 5th year IT student, in cybersecurity specialization.  
+My name is Romain Baudet, 21 years old, 5th year IT student in [Polytech Nice Sophia][pns-website], in cybersecurity specialization.  
 __I am looking for a job in the domain of cybersecurity. I'll be available starting in september 2023.__
 
 ## Work experiences
@@ -46,3 +46,4 @@ I'm also playing CTFs from time to time. I'm planning to make writeups of challe
 [htb-academy-website]: https://academy.hackthebox.com/dashboard
 [htb-academy-paths]: https://academy.hackthebox.com/paths/jobrole
 [main-page]: {{ site.url }}
+[pns-website]: https://polytech.univ-cotedazur.fr/

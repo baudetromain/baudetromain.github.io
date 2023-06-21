@@ -1,0 +1,19 @@
+name: Romain Baudet
+dp: https://avatars.githubusercontent.com/u/34265344?s=400&u=c6ebc3dcecbdfd2455844e225d8611fc4685d221&v=4
+description: "
+  <p>
+    Cybersecurity student looking for a job. My resume is in the <a href='/about'>about</a> page.
+  </p>
+  <br/>
+  <p>
+    I'm making writeups of CTF challenges I successfully flagged. Feel free to email me at romain74.baudet@gmail.com if you have any question!
+  </p>
+"
+email: romain74.baudet@gmail.com
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/romain-baudet-123a66254/
+  - title: github
+    url: https://github.com/Natsukooh
+  - title: email
+    url: mailto:romain74.baudet@gmail.com
