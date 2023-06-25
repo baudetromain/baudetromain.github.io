@@ -59,7 +59,7 @@ Rather than doing some more educated guessing on what could be happening behind 
 # Decompiling the application
 
 ```console
-Natsuko@kali:~$ jadx-gui jninjaspeak.apk
+Natsuko@kali:~/jninjaspeak/$ jadx-gui jninjaspeak.apk
 ```
 
 In jadx, I quickly figured out that the code responsible for making the output from the given input is this one:
@@ -154,7 +154,10 @@ Also, there's a call to `_JNIEnv::GetStringUTFChars`, maybe that could explain w
 
 ![UTF encoding or something](/assets/images/nahamcon_ctf/jninjaspeak/jninjaspeak_encoding.png)
 
-Since I was running out of time for the CTF, I didn't take the time to analyze deeper than that and headed to the next challenge.
+Since I was running out of time for the CTF, I didn't take the time to analyze deeper than that and headed to the next challenge.  
+
+That's it for this second challenge!  
+You can find my writeup of the third one [here][third-post].
 
 [john-hammond-website]: https://j-h.io/links
 [john-hammond-twitter]: https://twitter.com/_JohnHammond
@@ -171,3 +174,4 @@ Since I was running out of time for the CTF, I didn't take the time to analyze d
 [ghidra-website]: https://ghidra-sre.org/
 [ghidra-download]: https://github.com/NationalSecurityAgency/ghidra/releases
 [first-post]: {{ site.url }}/nahamcon-ctf-writeup-part-1
+[third-post]: {{ site.url }}/nahamcon-ctf-writeup-part-3
