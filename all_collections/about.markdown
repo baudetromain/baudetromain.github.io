@@ -41,9 +41,19 @@ Cybersecurity topics studied in class: networking, cryptography, pentesting, web
 On my free time, I'm taking courses on [Hack the box Academy][htb-academy-website], following the *pentester* [job role path][htb-academy-paths].  
 I'm also playing CTFs from time to time. I'm planning to make writeups of challenges I manage to flag and post them here (some are already here, check [the main page][main-page]).
 
+# CTFs
+
+I plan to play CTFs when I'll have time to. The only one I've played recently was Nahamcon CTF, which was fun to play, and motivated me to play some more. You can find my writeups of the challenges I solved [here][first-post].
+
+![my nahamcon CTF certificate](/assets/images/nahamcon_ctf/nahamcon_certificate.png)
+
+(My team was named *So lonely* because I was the only player of my team)
+
 [inrim-website]: https://www.inrim.it/it
 [nxp-website]: https://www.nxp.com/
 [htb-academy-website]: https://academy.hackthebox.com/dashboard
 [htb-academy-paths]: https://academy.hackthebox.com/paths/jobrole
 [main-page]: {{ site.url }}
 [pns-website]: https://polytech.univ-cotedazur.fr/
+[nahamcon-website]: https://www.nahamcon.com/
+[first-post]: {{ site.url }}/nahamcon-ctf-writeup-part-1
