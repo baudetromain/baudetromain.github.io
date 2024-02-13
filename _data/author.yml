@@ -6,14 +6,14 @@ description: "
   </p>
   <br/>
   <p>
-    I'm making writeups of CTF challenges I successfully flagged. Feel free to email me at romain74.baudet@gmail.com if you have any question!
+    I'm making writeups of CTF challenges I successfully flagged. Feel free to email me at romain.baudet@protonmail.com if you have any question!
   </p>
 "
-email: romain74.baudet@gmail.com
+email: romain.baudet@protonmail.com
 contact:
   - title: linkedin
     url: https://www.linkedin.com/in/romain-baudet-123a66254/
   - title: github
     url: https://github.com/Natsukooh
   - title: email
-    url: mailto:romain74.baudet@gmail.com
+    url: mailto:rromain.baudet@protonmail.com

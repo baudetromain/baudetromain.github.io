@@ -4,7 +4,7 @@ markdown: kramdown
 # for atom feed
 author:
   name: Romain Baudet
-  email: romain74.baudet@gmail.com
+  email: romain.baudet@protonmail.com
 
 plugins:
   - jemoji
